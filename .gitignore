@@ -12,5 +12,8 @@
 fp-info-cache
 ~*.lck
 
+# github?
+.history/
+
 # Build outputs (gerbers, BOMs) — optional, depends on workflow
  /production/
