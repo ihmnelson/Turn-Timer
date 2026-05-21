@@ -13,4 +13,4 @@ fp-info-cache
 ~*.lck
 
 # Build outputs (gerbers, BOMs) — optional, depends on workflow
-# /production/
+ /production/
