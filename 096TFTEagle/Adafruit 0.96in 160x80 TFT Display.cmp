@@ -1,0 +1,235 @@
+Cmp-Mod V01 Created by PcbNew   date = 2026-05-14T11:54:08
+
+BeginCmp
+TimeStamp = 6d7e9f86-c86b-4ccc-bb8a-d44f011b64e6
+Path = 
+Reference = UNK_HOLE_0;
+ValeurCmp = [NoVal];
+IdModule  = dummyfp0;
+EndCmp
+
+BeginCmp
+TimeStamp = 6fc597d9-eb40-414f-abf1-8bcdd2f69b42
+Path = 
+Reference = UNK_HOLE_1;
+ValeurCmp = [NoVal];
+IdModule  = dummyfp1;
+EndCmp
+
+BeginCmp
+TimeStamp = 112118ff-0aeb-4419-9a5d-be2a5ad524ea
+Path = 
+Reference = UNK_HOLE_2;
+ValeurCmp = [NoVal];
+IdModule  = dummyfp2;
+EndCmp
+
+BeginCmp
+TimeStamp = ba71318b-63c7-4724-85c7-97beecb0d080
+Path = 
+Reference = UNK_HOLE_3;
+ValeurCmp = [NoVal];
+IdModule  = dummyfp3;
+EndCmp
+
+BeginCmp
+TimeStamp = c4547445-b235-4723-b795-4465b7a8c670
+Path = 
+Reference = UNK_HOLE_4;
+ValeurCmp = [NoVal];
+IdModule  = dummyfp4;
+EndCmp
+
+BeginCmp
+TimeStamp = b12ef74e-e6e7-4813-9596-a33a38254338
+Path = 
+Reference = UNK_HOLE_5;
+ValeurCmp = [NoVal];
+IdModule  = dummyfp5;
+EndCmp
+
+BeginCmp
+TimeStamp = 278012bd-6a67-4365-a592-1d187272186a
+Path = 
+Reference = UNK_HOLE_6;
+ValeurCmp = [NoVal];
+IdModule  = dummyfp6;
+EndCmp
+
+BeginCmp
+TimeStamp = 6f431b40-111d-470c-8acf-8594ba140a17
+Path = 
+Reference = UNK_HOLE_7;
+ValeurCmp = [NoVal];
+IdModule  = dummyfp7;
+EndCmp
+
+BeginCmp
+TimeStamp = 9fea7df9-06d9-46fa-86ea-3f4b9b31af01
+Path = 
+Reference = UNK_HOLE_8;
+ValeurCmp = [NoVal];
+IdModule  = dummyfp8;
+EndCmp
+
+BeginCmp
+TimeStamp = 311067c6-1027-41cc-b18e-7dcc8e1dd9b6
+Path = 
+Reference = UNK_HOLE_9;
+ValeurCmp = [NoVal];
+IdModule  = dummyfp9;
+EndCmp
+
+BeginCmp
+TimeStamp = c1134828-c0d5-417e-97cc-b7f0aba88323
+Path = 
+Reference = FID1;
+ValeurCmp = FIDUCIAL_1MM;
+IdModule  = FIDUCIAL_1MM;
+EndCmp
+
+BeginCmp
+TimeStamp = 5e18532d-5e2a-44fd-b903-fe3489f3fd42
+Path = 
+Reference = FID2;
+ValeurCmp = FIDUCIAL_1MM;
+IdModule  = FIDUCIAL_1MM;
+EndCmp
+
+BeginCmp
+TimeStamp = 77e0b021-60c7-47c6-850e-f957e1fdd4bf
+Path = 
+Reference = IC5;
+ValeurCmp = APX803;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 6bb7bba1-cc50-4ca2-b2b6-ff5e4b237211
+Path = 
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = 0603-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = dffb9ff8-60c6-428d-8386-06d695b9c3cf
+Path = 
+Reference = U$2;
+ValeurCmp = DISP_LCD_0.9IN_160X80;
+IdModule  = TFT_0.96IN_160X80;
+EndCmp
+
+BeginCmp
+TimeStamp = 01e39f3c-2120-48df-a7cd-ad6ca0d28827
+Path = 
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = 0805-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = 77e397ca-e1c6-417c-813b-f6325404d1a6
+Path = 
+Reference = U3;
+ValeurCmp = 74HC4050D;
+IdModule  = SOIC16;
+EndCmp
+
+BeginCmp
+TimeStamp = bdaf7a36-f38a-4cbe-9cc9-50d47cf598f5
+Path = 
+Reference = U2;
+ValeurCmp = MIC5225-3.3;
+IdModule  = SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 0405baac-984e-46c6-8020-d4407b34f65a
+Path = 
+Reference = C1;
+ValeurCmp = 10µF;
+IdModule  = 0805-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = f3f77b8c-fecd-42d4-b941-8c751de13631
+Path = 
+Reference = C2;
+ValeurCmp = 10µF;
+IdModule  = 0805-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = 35339e92-37f7-4782-9203-49e63ed93c99
+Path = 
+Reference = R5;
+ValeurCmp = 22;
+IdModule  = 0603-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = 22b8f432-67b0-49ac-9802-12f3def30676
+Path = 
+Reference = Q1;
+ValeurCmp = MMBT2222;
+IdModule  = SOT23-WIDE;
+EndCmp
+
+BeginCmp
+TimeStamp = 7298c3f1-f99f-4ca4-8cbe-420d47936242
+Path = 
+Reference = R7;
+ValeurCmp = 1K;
+IdModule  = 0603-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = b727e2cf-768d-41a9-80bc-83d14c857d81
+Path = 
+Reference = R8;
+ValeurCmp = 10K;
+IdModule  = 0603-NO;
+EndCmp
+
+BeginCmp
+TimeStamp = 53c50ba7-afb8-42a9-8ad4-f81def20a18b
+Path = 
+Reference = JP1;
+ValeurCmp = [NoVal];
+IdModule  = 1X11_ROUND;
+EndCmp
+
+BeginCmp
+TimeStamp = 0bb88ef4-75a5-49da-8fe1-3082072bf882
+Path = 
+Reference = U$4;
+ValeurCmp = MICROSD;
+IdModule  = ADAFRUIT_3.5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = 89efdd08-0d12-451e-81f1-35c28cd3422a
+Path = 
+Reference = U$9;
+ValeurCmp = MOUNTINGHOLE2.5;
+IdModule  = MOUNTINGHOLE_2.5_PLATED;
+EndCmp
+
+BeginCmp
+TimeStamp = 596d73d4-42d6-4642-b2cb-b81123a45994
+Path = 
+Reference = U$10;
+ValeurCmp = MOUNTINGHOLE2.5;
+IdModule  = MOUNTINGHOLE_2.5_PLATED;
+EndCmp
+
+BeginCmp
+TimeStamp = 4f1a649f-7590-4627-8be0-79af6fd7fad3
+Path = 
+Reference = U$6;
+ValeurCmp = [NoVal];
+IdModule  = PCBFEAT-REV-040;
+EndCmp
+
+EndListe

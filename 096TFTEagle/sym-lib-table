@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Adafruit 0.96in 160x80 TFT Display-eagle-import") (type "KiCad") (uri "${KIPRJMOD}/Adafruit 0.96in 160x80 TFT Display-eagle-import.kicad_sym") (options "") (descr ""))
+)

@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# project specific
+096TFTEagle/
+
+# KiCad backups and caches
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.bak
+fp-info-cache
+~*.lck
+
+# Build outputs (gerbers, BOMs) — optional, depends on workflow
+# /production/
